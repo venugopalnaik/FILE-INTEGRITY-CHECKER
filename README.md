@@ -1,15 +1,30 @@
 # FILE-INTEGRITY-CHECKER
 
+COMPANY: CODETECH IT SOLUTIONS
+
+NAME: BUKKE VENUGOPALNAIK 
+
+INTERN ID: CT08DN1321
+
+DOMAIN: CYBERSECURITY &ETHICAL HACKING 
+
+DURATION: 8 WEEKS
+
+MENTOR: NEELA SANTHOSH KUMAR
+
+# YOU HAVE TO ENTER DESCRIPTION OF YOUR TASK (AND IT SHOULD NOT BE LESS THAN 500 WORDS)
+
+# WHAT IS FILE INTEGRITY CHECKER?
 File Integrity Checker (FIC) is a cybersecurity tool that verifies the integrity of files by detecting unauthorized modifications. It's used in both cyber security and ethical hacking to identify compromised systems and ensure data integrity. Ethical hackers use it to test system security, while security professionals use it to detect breaches and maintain data 
-Hashing:
+# Hashing:
 FICs use hashing algorithms (like MD5, SHA-256) to generate a unique "fingerprint" (hash) for a file. 
-Baseline Creation:
+# Baseline Creation:
 A baseline hash is created for a known good version of the file and stored securely. 
-Comparison:
+# Comparison:
 When the file is checked, a new hash is generated and compared to the baseline. If the hashes match, the file is considered unchanged. If they differ, it indicates a potential modification. 
-Monitoring:
+# Monitoring:
 FICs can be configured to monitor files and folders, alerting administrators to any changes 
-Key Features and Benefits:
+# Key Features and Benefits:
 Intrusion Detection:
 FICs help detect malicious modifications, such as those caused by rootkits or malware, that might compromise a system. 
 Compliance:
@@ -21,7 +36,7 @@ By ensuring files haven't been tampered with, FICs maintain the reliability and 
 Proactive Monitoring:
 FIM tools can be configured to monitor critical files and folders in real-time, alerting administrators to changes as they happen. 
 This video explains the difference between File Integrity 
-Examples of FIM Tools:
+# Examples of FIM Tools:
 Tripwire: A widely used tool for detecting changes to system files. 
 OSSEC: An open-source host-based intrusion detection system that includes FIM capabilities. 
 SolarWinds Security Event Manager: A commercial tool that offers FIM functionality. 
